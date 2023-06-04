@@ -3,7 +3,7 @@ Fitness plans
 Práce se zabývá vytvořením webových stránek s prodejem tréninkových plánů
 
 Nezapomenu upravit odkazy a "aktivovat" GitHub Pages... 
-[Webová stránka s ukázkovou implemetací](https://pslib-cz.github.io/<SEM_VKLADAM_NAZEV_PROJEKTU>/)
+[Webová stránka s ukázkovou implemetací](https://github.com/pslib-cz/2022-l3-web-site-mareksofr.git)
 
 [Návrh webové stránky ve Figmě](https://www.figma.com/file/kBeS5judyAqEvtyLa9q6V8/projekt-web?type=design&node-id=2-81&t=l35mU3EF13TXkjUf-0)
 
