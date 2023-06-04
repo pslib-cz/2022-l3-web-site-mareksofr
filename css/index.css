@@ -1,0 +1,99 @@
+article > p {
+    padding-bottom: 20px;
+}
+
+h2 {
+    padding-bottom: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+    article {
+        display: flex;
+        flex-direction: column;
+        background-color: var(--seda);
+        align-items: center;
+        padding: 20px;
+        width: 280px;
+        max-height: 523px;
+        margin: 0 20px;
+    }
+    
+    article > div {
+        display: flex;
+        width: 280px;
+        justify-content: space-between;
+    }
+    
+    .gym__pic {
+        width: 210px;
+        height: 150px;
+        padding-bottom: 30px;
+    }
+    
+    .profile__pic {
+        width: 200px;
+        height: 200px;
+        margin-bottom: 30px;
+    }
+    main {
+        margin: 0 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    section {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        margin-top: 60px;
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    article {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        background-color: var(--seda);
+        align-items: center;
+        padding: 40px;
+        width: 480px;
+        margin-bottom: 100px;
+    }
+
+    article > p {
+        overflow: hidden;
+    }
+    
+    article > div {
+        display: flex;
+        width: 480px;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .gym__pic {
+        width: 350px;
+        height: 225px;
+        padding-bottom: 30px;
+    }
+    
+    .profile__pic {
+        width: 300px;
+        height: 300px;
+        margin-bottom: 30px;
+    }
+    section {
+        display: flex;
+        justify-content: center;
+        gap: 5%;
+        flex-wrap: wrap;
+        margin-top: 100px;
+        min-width: 90%;
+    }
+
+    h1 {
+        margin-bottom: 100px;
+    }
+}
