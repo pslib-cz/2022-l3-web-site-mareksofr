@@ -57,8 +57,8 @@ h2 {
         justify-content: space-between;
         background-color: var(--seda);
         align-items: center;
-        padding: 40px;
-        width: 480px;
+        padding: 20px;
+        width: 280px;
         margin-bottom: 100px;
     }
 
@@ -68,20 +68,20 @@ h2 {
     
     article > div {
         display: flex;
-        width: 480px;
+        width: 280px;
         justify-content: space-between;
         align-items: center;
     }
     
     .gym__pic {
-        width: 350px;
-        height: 225px;
+        width: 210px;
+        height: 150px;
         padding-bottom: 30px;
     }
     
     .profile__pic {
-        width: 300px;
-        height: 300px;
+        width: 200px;
+        height: 200px;
         margin-bottom: 30px;
     }
     section {
