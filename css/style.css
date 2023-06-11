@@ -24,20 +24,20 @@ body {
     .footer__links > a {
         color: var(--cerna);
         text-decoration: none;
-        font-size: 14px;
+        font-size: 16px;
     }
     
     p {
-        font-size: 14px;
+        font-size: 16px;
     }
     
     h1 {
-        font-size: 17px;
+        font-size: 32px;
         font-weight: 600;
     }
     
     h2 {
-        font-size: 14px;
+        font-size: 17px;
         font-weight: 600;
     }
     
@@ -47,7 +47,7 @@ body {
         background-color: var(--oranzova);
         border-radius: 30px;
         text-decoration: none;
-        font-size: 17px;
+        font-size: 16px;
         text-align: center;
     }
     
@@ -91,19 +91,19 @@ body {
 @media only screen and (min-width: 769px) {
     .name {
         font-weight: 700;
-        font-size: 40px;
+        font-size: 20px;
     }
     
     nav > a {
         color: var(--cerna);
         text-decoration: none;
-        font-size: 28px;
+        font-size: 16px;
     }
     
     .footer__links > a {
         color: var(--cerna);
         text-decoration: none;
-        font-size: 28px;
+        font-size: 16px;
     }
 
     main {
@@ -113,7 +113,7 @@ body {
     }
     
     p {
-        font-size: 28px;
+        font-size: 16px;
     }
 
     p:nth-child(2) {
@@ -121,22 +121,22 @@ body {
     }
     
     h1 {
-        font-size: 34px;
+        font-size: 32px;
         font-weight: 600;
     }
     
     h2 {
-        font-size: 28px;
+        font-size: 17px;
         font-weight: 600;
     }
     
     .button {
-        padding: 30px 40px;
+        padding: 15px 20px;
         color: var(--bila);
         background-color: var(--oranzova);
-        border-radius: 60px;
+        border-radius: 30px;
         text-decoration: none;
-        font-size: 28px;
+        font-size: 16px;
         text-align: center;
     }
 
